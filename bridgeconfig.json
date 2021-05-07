@@ -1,0 +1,10 @@
+{
+    "BridgeOne":{
+        "bridgeid":"A2B1C1D1E1F1G1H1",
+        "ip":"10.0.0.100",
+        "clientname":"pyHueDisco#rpi ubuntu",
+        "clientid":"AbCdEfGhIjKlMnOpQrStUvWxYz",
+        "clientkey":"AbCdEfGhIjKlMnOpQrStUvWxYz",
+        "entertainmentgroup":"1"
+    }
+}
